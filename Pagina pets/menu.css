@@ -1,0 +1,142 @@
+* {
+    margin:0 auto ;
+    padding:0;
+    box-sizing:border-box;
+    
+}
+
+
+#menu-h{
+    background-color: rgb(51, 192, 159);
+}
+
+#menu-h ul {
+    max-width: 800px;
+    list-style: none;
+    padding: 0;
+}
+
+#menu-h ul li {
+    display: inline;
+}
+
+#menu-h ul li a {
+    color: #FFFF;
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+    transition: background .4s;
+    
+}
+
+
+
+
+
+#menu-h ul li a:hover {
+    background-color: rgb(156, 233, 24);
+}
+
+#menu-h ul li:last-child a {
+    float: right;
+    background-color: rgb(156, 233, 24);
+}
+
+h1{
+   text-align:center;
+   color: rgb(156, 233, 24); 
+   font-size: 40px; 
+  
+}
+
+
+#textoinicial{
+    font-size: 25px;
+    font-style: italic;
+    margin: 50px;
+    
+}
+
+form{
+    position: relative;
+    padding:200px;
+    text-align:center;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+#cor{
+    color: rgb(51, 192, 159);
+}
+
+#loja{
+    margin-left: 20px;
+}
+
+h2{
+   color: rgb(156, 233, 24); 
+}
+
+#adocao{
+   align-items: center;
+}
+
+h3{
+    color:rgb(156, 233, 24);
+    text-align: center; 
+}
+
+h4{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(156, 233, 24); 
+}
+
+.texto2{
+    font-size: 25px;
+    font-style: italic;
+    margin: 50px;
+}
+
+
+footer{
+    display: block;
+    background-color:rgb(51, 192, 159); 
+}
+
+#rodape ul{
+    max-width: 400px;
+    list-style:none;
+    padding: 0;
+}
+#rodape ul li  {
+    display: inline;
+}
+#rodape ul li a{
+    color: #FFFF;
+    padding: 12px;
+    display: inline-block;
+    text-decoration: none; 
+}
+
+#rodape ul li a:hover{
+    background-color: rgb(156, 233, 24);
+}
+
+.letrarodape{
+    text-align: center;
+    color: #FFFF;
+}
+
+
+
+
